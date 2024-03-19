@@ -3,17 +3,17 @@
 ## Introduction
 Welcome to JobConnect, your ultimate platform for connecting with job opportunities and advancing your career. Whether you're a job seeker looking for your next big opportunity or an employer seeking top talent, JobConnect has you covered. Our platform offers a seamless experience for discovering, applying to, and posting job listings, along with robust networking and professional development resources.
 
-Deployed Site: Netlify
-Final Project Blog Article: JobConnect Blog
-Authors' LinkedIn Profiles: https://www.linkedin.com/in/johnson-muhabi-a76720223/ |  oteeian500@gmail.com
+- Deployed Site: Netlify
+- Final Project Blog Article: JobConnect Blog
+- Authors' LinkedIn Profiles: https://www.linkedin.com/in/johnson-muhabi-a76720223/ |  oteeian500@gmail.com
 
 ## Installation
 To install JobConnect locally, follow these steps:
 
-Clone the repository from GitHub: git clone https://github.com/Planter44/My-Portfolio
-Navigate to the project directory: cd My-Portfolio
-Install dependencies: npm install
-Start the application: npm start
+- Clone the repository from GitHub: git clone https://github.com/Planter44/My-Portfolio
+- Navigate to the project directory: cd My-Portfolio
+- Install dependencies: npm install
+- Start the application: npm start
 
 ## Usage
 Once installed, you can use JobConnect to:
